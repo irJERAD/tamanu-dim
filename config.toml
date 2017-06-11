@@ -6,6 +6,9 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 
+# for github pages
+publishDir = "docs"
+
 [params]
   title = "Tamanu Health Supply"
   description = '<!--[-->The ageless art of crafting oil from the seed of Tamanu<!--]--><br />
